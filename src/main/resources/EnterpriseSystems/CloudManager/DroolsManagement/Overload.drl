@@ -1,0 +1,43 @@
+package EnterpriseSystems.CloudManager.DroolsManagement
+import EnterpriseSystems.CloudManager.Model.*
+dialect  "mvel"
+
+global DroolsManager manager
+
+rule "CPU Overloaded"
+
+    when
+        $c : Cloud()
+        $b : Blade(getAvCpuUsage() > 0.90 ) from $c.blades.values()
+    then
+        System.out.println("have overloaded blade id " + $b.getID());
+        manager.allocateOverloadedVM($b,Overload.CPU);
+
+end
+
+rule "Network Overloaded"
+
+    when
+        $c : Cloud()
+        $b : Blade(getAvNetworkUsage() > 0.90 ) from $c.blades.values()
+
+    then
+       // manager.allocateOverloadedVM($b,Overload.NETWORK);
+
+end
+
+ rule "Conserve Energy "
+
+     when
+         $c : Cloud()
+         not $b : Blade(getAvCpuUsage() > 0.90 ) from $c.blades.values()
+         $b : Blade(getAvCpuUsage() < 0.20, isOn()) from $c.blades.values()
+     then
+         manager.tryToShutDownBlade($b);
+ end
+
+
+
+
+
+

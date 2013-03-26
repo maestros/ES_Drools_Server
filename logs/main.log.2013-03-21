@@ -1,0 +1,139 @@
+19:17:09,437  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:17:09,441  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:17:09,447  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:17:18,005  INFO Listener:44 - Accept client: 150.100.1.2
+19:19:57,248  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:19:57,251  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:19:57,257  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:20:16,366  INFO Listener:44 - Accept client: 150.100.1.2
+19:20:41,073  WARN CloudCommunicator:60 - Socket error.
+19:20:57,383  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:20:57,386  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:20:57,392  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:21:00,906  INFO Listener:44 - Accept client: 150.100.1.2
+19:22:15,453  WARN CloudCommunicator:60 - Socket error.
+19:24:10,782  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:24:10,785  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:24:10,790  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:24:12,972  INFO Listener:44 - Accept client: 150.100.1.2
+19:27:51,248  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:27:51,251  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:27:51,252 ERROR Listener:33 - Initial socket failed.
+19:27:58,658  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:27:58,661  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:27:58,667  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:28:03,700  INFO Listener:44 - Accept client: 150.100.1.2
+19:30:43,693  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:30:43,696  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:30:43,701  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:30:45,600  INFO Listener:44 - Accept client: 150.100.1.2
+19:31:12,817  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:31:12,820  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:31:12,826  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:31:16,905  INFO Listener:44 - Accept client: 150.100.1.2
+19:31:49,460  WARN CloudCommunicator:61 - Socket error.
+19:32:11,602  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:32:11,605  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:32:11,612  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:32:14,711  INFO Listener:44 - Accept client: 150.100.1.2
+19:32:59,373  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:32:59,375  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:32:59,380  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:33:02,619  INFO Listener:44 - Accept client: 150.100.1.2
+19:33:22,496  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:33:22,499  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:33:22,503  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:33:25,302  INFO Listener:44 - Accept client: 150.100.1.2
+19:34:03,395  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:34:03,398  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:34:03,399 ERROR Listener:33 - Initial socket failed.
+19:34:09,631  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:34:09,633  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:34:09,638  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:34:12,153  INFO Listener:44 - Accept client: 150.100.1.2
+19:34:49,369  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:34:49,372  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:34:49,379  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:34:51,348  INFO Listener:44 - Accept client: 150.100.1.2
+19:35:59,007  WARN CloudCommunicator:59 - Socket error.
+19:39:55,311  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:39:55,314  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:39:55,318  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:39:57,769  INFO Listener:44 - Accept client: 150.100.1.2
+19:44:30,759  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:44:30,762  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:44:30,764 ERROR Listener:33 - Initial socket failed.
+19:44:36,420  INFO Listener:44 - Accept client: 150.100.1.2
+19:47:01,320  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:47:01,323  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:47:01,329  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:47:09,590  INFO Listener:44 - Accept client: 150.100.1.2
+19:56:09,966  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+19:56:09,969  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+19:56:09,975  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+19:56:14,495  INFO Listener:44 - Accept client: 150.100.1.2
+20:25:54,337  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:25:54,341  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:25:54,343 ERROR Listener:33 - Initial socket failed.
+20:26:06,320  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:26:06,322  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:26:06,327  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+20:26:08,374  INFO Listener:44 - Accept client: 150.100.1.2
+20:28:29,915  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:28:29,918  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:28:29,923  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+20:28:32,320  INFO Listener:44 - Accept client: 150.100.1.2
+20:37:02,633  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:37:02,636  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:37:02,644  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+20:37:17,535  INFO Listener:44 - Accept client: 127.0.0.1
+20:38:15,741  INFO Listener:44 - Accept client: 127.0.0.1
+20:41:39,429  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:41:39,432  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:41:39,451  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+20:42:06,418  INFO Listener:44 - Accept client: 127.0.0.1
+20:46:16,706  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:46:16,709  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:46:16,742  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+20:46:27,281  INFO Listener:44 - Accept client: 127.0.0.1
+20:55:21,793  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:55:21,806  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:55:21,826  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+20:55:34,698  INFO Listener:44 - Accept client: 127.0.0.1
+20:56:13,051  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+20:56:13,058  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+20:56:13,067  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+20:56:31,892  INFO Listener:44 - Accept client: 127.0.0.1
+20:59:37,913  INFO Listener:44 - Accept client: 127.0.0.1
+21:00:01,378  INFO Listener:44 - Accept client: 127.0.0.1
+21:02:18,841  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:02:18,845  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:02:18,859  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+21:02:30,847  INFO Listener:44 - Accept client: 127.0.0.1
+21:04:06,664  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:04:06,685  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:04:06,693  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+21:04:17,383  INFO Listener:44 - Accept client: 127.0.0.1
+21:06:42,273  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:06:42,277  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:06:42,285  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+21:06:54,548  INFO Listener:44 - Accept client: 127.0.0.1
+21:13:13,501  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:13:13,504  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:13:13,519  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+21:13:27,564  INFO Listener:44 - Accept client: 127.0.0.1
+21:17:30,924  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:17:30,927  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:17:30,936  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+21:18:31,680  INFO Listener:44 - Accept client: 127.0.0.1
+21:35:43,258  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:35:43,261  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:35:43,269  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+21:35:57,821  INFO Listener:44 - Accept client: 127.0.0.1
+21:36:57,712  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:36:57,716  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:36:57,723  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
+21:41:20,308  INFO Listener:44 - Accept client: 127.0.0.1
+21:45:19,771  WARN Listener:26 - You have not set the listening port. 9070 is set as default.
+21:45:19,783  WARN Listener:27 - To set the listening port. Use: java Server <port number>
+21:45:19,792  INFO Listener:31 - Cloud DroolsManager Server is listening on port 2103
